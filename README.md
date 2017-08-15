@@ -1,0 +1,1 @@
+# cmsplugin-site-settings
